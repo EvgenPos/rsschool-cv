@@ -41,3 +41,24 @@ return $a * $b;
 ```
 
 ***
+
+# Languages
+
+* **Belarusian** - Native
+* **Russian** - Native
+* **English** - B1 (B2 in process)
+
+***
+
+# Education
+
+* **Minsk State Polygraphy College**
+    * Technical Editor
+
+***
+
+# My Projects
+
+[My CV](https://evgenpos.github.io/rsschool-cv/cv)
+
+***
