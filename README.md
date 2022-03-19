@@ -1,1 +1,1 @@
-# rsschool-cv
+https://evgenpos.github.io/rsschool-cv/cv
